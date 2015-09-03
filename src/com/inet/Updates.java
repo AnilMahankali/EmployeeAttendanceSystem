@@ -2,7 +2,6 @@ package com.inet;
 import java.io.IOException;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.util.Properties;
 
 import com.opensymphony.xwork2.ActionSupport;
